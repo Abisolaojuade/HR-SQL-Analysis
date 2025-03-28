@@ -55,7 +55,7 @@ Analyze the HR dataset using SQL to answer key business questions and gain actio
 ![Screenshot 2025-03-28 132427](https://github.com/user-attachments/assets/478ccee4-5331-498e-a943-d6f1b9b02243)
 
 
-## Data Cleaning and Traansformation
+## Data Cleaning and Transformation
 - Step 1. Table Rename
 -Renamed the original table HR data to HR_data for clarity and consistency
 ```sql
