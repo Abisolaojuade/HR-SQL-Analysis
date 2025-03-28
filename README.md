@@ -8,7 +8,7 @@
 - [Introduction](#Introduction)
 - [Dataset Overview](#Dataset-Overview)
 - [Project Objective](#Project-Objective)
-- [Data Cleaning](#Data-Cleaning-and-Transformation)
+- [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
@@ -163,7 +163,7 @@ INSIGHTS: Auditing 15 years, Product Management 14 years, Training 14 years, Eng
 INSIGHTS: 15 years. 
 
 
-## Recommendations
+## Recommendation
 1. Gender Balance: While the gender distribution is fairly balanced, with a slight skew towards females, the company should continue fostering inclusivity across all genders, 
 especially in senior leadership and technical roles. Additionally, there could be more targeted initiatives to support non-confirming employees, increasing their representation in the workforce.
 2. Remote Work: The company has a significant portion of remote workers, particularly in the Engineering department. 
